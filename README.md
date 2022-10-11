@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maystrix
+- 👋 Hi, I’m @Mayur
 - 👀 I’m interested in ...ML  
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...ML
