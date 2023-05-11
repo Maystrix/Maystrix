@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...ML  
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...ML
-- 📫 How to reach me ...mayurchougule18@gmail.com
+- 📫 How to reach me ...mayur22chougule@gmail.com
 
 <!---
 Mayur/Mayur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
