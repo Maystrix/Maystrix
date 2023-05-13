@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently venturing into **Machine Learning and AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sarodeshreyash](https://github.com/sarodeshreyash)
+- 👨‍💻 All of my projects are available at [https://github.com/Maystrix](https://github.com/Maystrix)
 
 - 📝 I regularly write articles on [https://medium.com/@mayurchougule18](https://medium.com/@mayurchougule18)
 
