@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Welcome to my page - I'm Mayur Chougule </h1>
+<h1 align="center">Hey, I'm Mayur Chougule </h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
