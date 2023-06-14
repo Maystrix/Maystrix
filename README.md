@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Mayur Chougule </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 
 - 🔭 I’m currently venturing into **Machine Learning and AI**
