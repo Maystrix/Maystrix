@@ -9,5 +9,5 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mayurchougule18](https://medium.com/@mayurchougule18)
 
-- 📫 If you want to discuss more on any topic **mayur22chougule@gmail.com**
+- 📫 If you want to discuss more on any topic **mayurchougule18@gmail.com**
 
