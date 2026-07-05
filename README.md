@@ -5,7 +5,7 @@
 
 🚀 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**.
     
-    I am Currently building a strong foundation in **Python, Data Science, Machine Learning, and AI**.
+I am Currently building a strong foundation in **Python, Data Science, Machine Learning, and AI**.
 
 💡 I enjoy exploring how data-driven models can solve real-world across different domains.
 
