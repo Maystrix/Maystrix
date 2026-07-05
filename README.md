@@ -1,13 +1,21 @@
-<h1 align="center">Hey, I'm Mayur Chougule </h1>
+<h1 align="center"> 👋 Hi, I'm Mayur Chougule </h1>
 
 
 
 
-- 🔭 I’m currently venturing into **Machine Learning and AI**
+🚀 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Maystrix](https://github.com/Maystrix)
+📊 Currently building a strong foundation in **Python, Data Science, Machine Learning, and AI**.
 
-- 📝 I regularly write articles on [https://medium.com/@mayurchougule18](https://medium.com/@mayurchougule18)
+💡 I enjoy exploring how data-driven models can solve real-world across different domains.
 
-- 📫 If you want to discuss more on any topic **mayurchougule18@gmail.com**
+👨‍💻 Check out my projects: **https://github.com/Maystrix**
+
+📝 I share my learning journey and technical articles on **https://medium.com/@mayurchougule18**
+
+
+📫 Let's connect: **[mayurchougule18@gmail.com](mailto:mayurchougule18@gmail.com)**
+
+⚡ *Learning every day. Building projects. Turning data into decisions.*
+
 
